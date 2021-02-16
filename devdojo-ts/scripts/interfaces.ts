@@ -1,7 +1,7 @@
 /** Created by Enivaldo on 13/02/2021 */
 //Interfaces
 
-function printName(person:{name: string}): void {
+function printName(person:{name:string}): void {
     console.log(person.name);    
 }
 
